@@ -1,4 +1,5 @@
 # Koombea Tools Extension
+<img src="placeholder.png" />
 
 ## Descripción
 Esta extensión es parte de las herramientas de desarrollo de Koombea, diseñada para mejorar y optimizar el flujo de trabajo de los Colaboradores.
