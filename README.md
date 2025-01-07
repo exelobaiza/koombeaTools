@@ -17,8 +17,8 @@ Esta extensión es parte de las herramientas de desarrollo de Koombea, diseñada
 
 ## Instalación
 1. Descarga la extensión desde el repositorio de Koombea
-2. Instala la extensión en tu navegador
-3. Configura tus credenciales de acceso
+2. Descomprime el archivo
+3. Configura "developer mode" en extensions, y cargalo en "Load unpacked"
 
 ## Uso
 1. Activa la extensión desde el panel de extensiones de tu navegador
