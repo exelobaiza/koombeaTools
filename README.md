@@ -1,27 +1,27 @@
 # Koombea Tools Extension
 <img src="placeholder.png" />
 
-## Descripción
-Esta extensión es parte de las herramientas de desarrollo de Koombea, diseñada para mejorar y optimizar el flujo de trabajo de los Colaboradores.
+## Description
+This extension is part of Koombea's development tools, designed to improve and optimize the workflow of Collaborators.
 
-## Características
-- Integración con el ecosistema de Koombea
-- Interfaz intuitiva y fácil de usar
-- Personalización de estilos y funcionalidades
-- Compatible con los estándares de desarrollo de Koombea
+## Features
+- Integration with Koombea's ecosystem
+- Intuitive and easy-to-use interface
+- Customization of styles and functionalities
+- Compatible with Koombea's development standards
 
-## Requisitos Previos
-- Navegador web compatible (Chrome, Firefox, Edge)
-- Acceso a las herramientas de Koombea
-- Credenciales de desarrollador de Koombea
+## Prerequisites
+- Compatible web browser (Chrome, Firefox, Edge)
+- Access to Koombea tools
+- Koombea developer credentials
 
-## Instalación
-1. Descarga la extensión desde el repositorio de Koombea
-2. Descomprime el archivo
-3. Configura "developer mode" en extensions, y cargalo en "Load unpacked"
+## Installation
+1. Download the extension from Koombea's repository
+2. Unzip the file
+3. Configure "developer mode" in extensions, and load it using "Load unpacked"
 
-## Uso
-1. Activa la extensión desde el panel de extensiones de tu navegador
-2. Inicia sesión con tus credenciales de Koombea
-3. Comienza a utilizar las herramientas disponibles
+## Usage
+1. Activate the extension from your browser's extension panel
+2. Log in with your Koombea credentials
+3. Start using the available tools
 
