@@ -9,7 +9,21 @@
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
       "128": "icons/icon128.png"
-    }
+    },
+    "theme_icons": [
+      {
+        "light": "icons/light/icon16.png",
+        "size": 16
+      },
+      {
+        "light": "icons/light/icon48.png",
+        "size": 48
+      },
+      {
+        "light": "icons/light/icon128.png",
+        "size": 128
+      }
+    ]
   },
   "permissions": [],
   "icons": {
